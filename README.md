@@ -5,7 +5,7 @@ Development & Design, Artificial Intelligence, Mobile Applications Development, 
 Skills: PYTHON / JAVA / HTML / CSS / GITHUB 
 
 - 🔭 I’m currently working on ToDoList App 
-- 🌱 I’m currently learning : Python Data Analysis
+- 🌱 I’m currently learning : Python Data Analysis 🐍
 - 📫 How to reach me: parkerisaac09 [at] gmail dot com - https://www.instagram.com/isaacprkr/ - [Isaac Parker](https://www.linkedin.com/in/isaac-parker-a1477a179/)
 
 
