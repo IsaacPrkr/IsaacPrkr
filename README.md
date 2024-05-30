@@ -13,4 +13,3 @@ Skills: PYTHON / JAVA / HTML / CSS / GITHUB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacPrkr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacPrkr&show_icons=true)  
