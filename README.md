@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Isaac Parker
-I'm Isaac Parker, and I currently study at Nottingham-Trent University (UK). At the moment I'm studying a bachelors degree in computer science. I'm in my final year studying Service-Centric & Cloud Computing, Software 
-Development & Design, Artificial Intelligence, Mobile Applications Development, and my final year project which is analysis of climate change in which I'm developing a Python program to analyse data of climate change. 
+I'm Isaac Parker, and I am a graduate in computer science at Nottingham-trent University currently looking for work and working on personal projects.
 
 Take sometime to look at my CV in my repositories!
 
