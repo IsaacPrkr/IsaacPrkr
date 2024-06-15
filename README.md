@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Isaac Parker
 I'm Isaac Parker, and I am a graduate in computer science at Nottingham-trent University currently looking for work and working on personal projects.
 
-Take sometime to look at my CV in my repositories!
+Take some time to look at my CV in my repositories!
 
 - 🔭 I’m currently working on : Godot Game (for fun)
 - 🌱 I’m currently learning : Java
