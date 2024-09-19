@@ -3,7 +3,7 @@ I'm Isaac Parker, and I am a graduate in computer science at Nottingham-trent Un
 
 Take some time to look at my CV in my repositories!
 
-- 🔭 I’m currently working on : Improving data analyst knowledge
+- 🔭 I’m currently working on : 
 - 🌱 I’m currently learning : Python/SQL
 - 📫 How to reach me: parkerisaac09 [at] gmail dot com - https://www.instagram.com/isaacprkr/ - [Isaac Parker](https://www.linkedin.com/in/isaac-parker-a1477a179/)
 
