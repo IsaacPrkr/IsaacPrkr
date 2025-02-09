@@ -5,6 +5,7 @@ Take some time to look at my repositories!
 
 - 🔭 I’m currently working on : Converting Travel-Buddy Application from Flask to FastApi
 - 🌱 I’m currently learning : FastApi
+- 📖 I'm currently reading : The Pragmatic Programmer
 - 📫 How to reach me: parkerisaac09 [at] gmail dot com - https://www.instagram.com/isaacprkr/ - [Isaac Parker](https://www.linkedin.com/in/isaac-parker-a1477a179/)
 
 
