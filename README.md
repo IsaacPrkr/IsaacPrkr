@@ -11,5 +11,3 @@ Take some time to look at my repositories!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IsaacPrkr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>]([https://www.instagram.com/https://www.instagram.com/isaacprkr//](https://www.instagram.com/isaacprkr/)) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacPrkr)](https://github.com/IsaacPrkr/github-readme-stats)
-
