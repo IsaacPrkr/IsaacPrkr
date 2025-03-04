@@ -13,6 +13,6 @@ Take some time to look at my repositories!
 
 ![IsaacPrkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacPrkr&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacPrkr&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
