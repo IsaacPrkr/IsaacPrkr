@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Isaac Parker
-I'm Isaac Parker, and I am a graduate in computer science at Nottingham-trent University currently looking for work and working on personal projects.
+I am a graduate in computer science at Nottingham-trent University currently looking for work and working on personal projects.
 
 # 💫 About Me:
 🔭 I’m currently working on: Car-Swiper (unfinished)<br>🌱 I’m currently learning: FastAPI and PostgreSQL<br>📖 I'm currently reading : The Pragmatic Programmer<br>📫 How to reach me: parkerisaac09 [at] gmail dot com - https://www.instagram.com/isaacprkr/ - Isaac Parker
