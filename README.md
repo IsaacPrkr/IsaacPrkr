@@ -5,6 +5,7 @@ I am a graduate in computer science at Nottingham-trent University currently loo
 🔭 I’m currently working on: Car-Swiper (unfinished)<br>🌱 I’m currently learning: FastAPI and PostgreSQL<br>📖 I'm currently reading : The Pragmatic Programmer<br>📫 How to reach me: parkerisaac09 [at] gmail dot com - https://www.instagram.com/isaacprkr/ - Isaac Parker
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaacprkr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-parker-a1477a179) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parkerisaac09@gmail.com) 
 
