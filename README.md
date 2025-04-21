@@ -2,7 +2,7 @@
 I am a graduate in computer science at Nottingham-trent University currently looking for work and working on personal projects :)
 
 # 💫 About Me:
-🐍 Favourite Language: Python<br>🔭 I’m currently working on: Car-Swiper (unfinished)<br>🌱 I’m currently learning: FastAPI, PostgreSQL, Next.js<br>📖 📫 How to reach me: parkerisaac09 [at] gmail dot com - https://www.instagram.com/isaacprkr/ - Isaac Parker
+🐍 Favourite Language: Python<br>🔭 I’m currently working on: Car-Swiper (unfinished)<br>🌱 I’m currently learning: FastAPI, PostgreSQL, Next.js, TailwindCSS<br>📫 How to reach me: parkerisaac09 [at] gmail dot com - https://www.instagram.com/isaacprkr/ - Isaac Parker
 
 
 
