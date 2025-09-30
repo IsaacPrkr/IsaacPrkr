@@ -4,7 +4,7 @@ I am a graduate in Computer Science at Nottingham-trent University currently loo
 # 💫 About Me:
 🐍 Favourite Language: Python<br>🎯 Goal this Year: 500+ commits to GitHub<br>🔭 I’m currently working on: Car-Swiper (In Progress)<br>🌱 I’m currently learning: Full-stack <br>📫 How to reach me: parkerisaac09 [at] gmail dot com - https://www.instagram.com/isaacprkr/ - Isaac Parker
 
-Current Status: Studying & Looking for work
+Current Status: Improving 😎
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-parker-a1477a179) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parkerisaac09@gmail.com) 
