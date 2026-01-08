@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Isaac Parker
-I am a graduate in Computer Science at Nottingham-trent University currently looking for work and working on personal projects :)
+I am a graduate in Computer Science at Nottingham-trent University.
 
 # 💫 About Me:
 ☕ Favourite Language: Java<br>🎯 Goal this Year: 750+ commits to GitHub<br>🔭 I’m currently working on: All-around <br>🌱 I’m currently learning: Java <br>📫 How to reach me: parkerisaac09 [at] gmail dot com
