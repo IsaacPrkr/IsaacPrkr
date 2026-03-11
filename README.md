@@ -2,7 +2,7 @@
 I am a graduate in Computer Science at Nottingham-trent University.
 
 # 💫 About Me:
-☕ Favourite Language: Java<br>🎯 Goal this Year: 750+ commits to GitHub<br>🔭 I’m currently working on: All-around <br>🌱 I’m currently learning: Java/JDBC/Postgres/SpringBoot <br>📫 How to reach me: parkerisaac09 [at] gmail dot com
+☕ Favourite Language: Java<br>🔭 I’m currently working on: All-around <br>🌱 I’m currently learning: Java/JDBC/Postgres/SpringBoot <br>📫 How to reach me: parkerisaac09 [at] gmail dot com
 
 Current Status: Improving 😎
 
