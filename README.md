@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Isaac Parker
-I am a Graduate Software Engineer currently working for BAE Systems Digital Intelligence!
+I am a Graduate Software Engineer!
 
 # 💫 About Me:
 ☕ Favourite Language: Java<br>🔭 I’m currently working on: All-around <br>🌱 I’m currently learning: Java/JDBC/Postgres/SpringBoot/Debugging/Testing <br>📫 How to reach me: parkerisaac09 [at] gmail dot com
