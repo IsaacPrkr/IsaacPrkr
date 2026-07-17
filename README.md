@@ -2,7 +2,7 @@
 I am a Graduate Software Engineer!
 
 # 💫 About Me:
-☕ Favourite Language: Java<br>🔭 I’m currently working on: All-around <br>🌱 <br>📫 How to reach me: parkerisaac09 [at] gmail dot com
+☕ Favourite Language: Java<br>🔭 I’m currently working on: All-around <br>📫 How to reach me: parkerisaac09 [at] gmail dot com
 
 Current Status: Improving 😎
 
